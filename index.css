@@ -9,4 +9,5 @@ h1 {
 h2 {
   font-size: 25px;
   justify-content:flex-start;
+  font-weight: bold;
 }
