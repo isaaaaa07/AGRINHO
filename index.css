@@ -11,3 +11,7 @@ h2 {
   justify-content:first baseline;
   font-weight: bold;
 }
+
+p {
+  font-size: 26px;
+}
