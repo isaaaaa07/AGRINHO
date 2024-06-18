@@ -2,7 +2,7 @@ header{
   color: rgb(52, 136, 52);
   font-size: 33px;
   font-weight: bold;
-  justify-content: center;
+  justify-content: flex-start;
   background-color: rgba(0, 255, 21, 0.123);
   padding: 20px;
   display: flex;
