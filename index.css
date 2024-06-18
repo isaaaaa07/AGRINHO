@@ -6,13 +6,14 @@ h1 {
   background-color: rgba(0, 255, 21, 0.123);
   padding: 40px;
 }
-h2 {
+
+.topico {
   font-size: 30px;
   justify-content:first baseline;
   font-weight: bold;
 }
 
-p {
+.texto {
   text-indent: 40px;
   font-size: 22px;
 }
