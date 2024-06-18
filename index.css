@@ -44,6 +44,6 @@ header{
 .monitor {
   width: 500px;
   height: 350px;
-  justify-content:end;
+  float: right;
   border-radius: 5%;
 }
