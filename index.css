@@ -20,7 +20,7 @@ header{
 
 .topico {
   font-size: 30px;
-  justify-content:first baseline;
+  justify-content: first baseline;
   font-weight: bold;
 }
 
@@ -42,7 +42,7 @@ header{
 }
 
 .monitor {
-  width: 130px;
-  height: 90px;
+  width: 200px;
+  height: 150px;
   text-align: flex;
 }
