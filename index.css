@@ -8,6 +8,9 @@ header{
   display: flex;
 }
 
+.integrantes{
+  font-size: 20px;
+}
 .agro {
     width: 120px;
     height: 100px;
