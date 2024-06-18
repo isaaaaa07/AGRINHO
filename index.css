@@ -52,4 +52,5 @@ header{
   float: center;
   border-radius: 5%;
   display: flex;
+  margin-right: 10px;
 }
