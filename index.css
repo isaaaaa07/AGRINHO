@@ -30,6 +30,8 @@ header{
 .texto {
   text-indent: 40px;
   font-size: 22px;
+  display: flex;
+  flex: 1;
 }
 
 .topico1 {
