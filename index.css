@@ -44,5 +44,5 @@ header{
 .monitor {
   width: 500px;
   height: 350px;
-  text-align: right;
+  justify-content:end;
 }
