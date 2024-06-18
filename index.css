@@ -42,7 +42,7 @@ header{
 }
 
 .monitor {
-  width: 900px;
-  height: 650px;
-  text-align: flex;
+  width: 800px;
+  height: 550px;
+  text-align: right;
 }
