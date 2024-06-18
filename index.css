@@ -45,4 +45,5 @@ header{
   width: 500px;
   height: 350px;
   justify-content:end;
+  border-radius: 5%;
 }
