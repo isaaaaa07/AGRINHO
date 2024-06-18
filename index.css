@@ -28,3 +28,14 @@ header{
   text-indent: 40px;
   font-size: 22px;
 }
+
+.topico1 {
+  font-size: 30px;
+  justify-content:flex-end;
+  font-weight: bold;
+}
+
+.texto1 {
+  text-indent: 40px;
+  font-size: 22px;
+}
