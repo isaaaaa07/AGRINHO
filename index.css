@@ -46,4 +46,5 @@ header{
   height: 350px;
   float: center;
   border-radius: 5%;
+  display: flexbox;
 }
