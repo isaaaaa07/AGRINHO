@@ -40,3 +40,8 @@ header{
   font-size: 22px;
   text-align: right;
 }
+
+.monitor {
+  width: 200px;
+  height: 170px;
+}
