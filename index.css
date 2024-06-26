@@ -36,14 +36,14 @@ header{
 
 .topico1 {
   font-size: 30px;
-  text-align:right;
+  text-align:left;
   font-weight: bold;
 }
 
 .texto1 {
   text-indent: 40px;
   font-size: 22px;
-  text-align: right;
+  text-align: left;
 }
 
 .monitor {
@@ -66,8 +66,6 @@ header{
 
 #tudo{
   display: grid;
-  grid-template-columns: 25% 25% 25% 25%;
-  text-align: center;
   padding: 30px 0;
   align-items: start;
 }
