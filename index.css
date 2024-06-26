@@ -66,7 +66,7 @@ header{
 
 #tudo{
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 25% 25% 25% 25%;
   text-align: center;
   padding: 30px 0;
   align-items: start;
