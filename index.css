@@ -58,7 +58,7 @@ header{
 .mapeamento {
   width: 500px;
   height: 350px;
-  justify-content: center;
+  justify-content: right;
   border-radius: 5%;
   display: flex;
   margin-left: 10px;
