@@ -81,3 +81,12 @@ header{
   font-size: 22px;
   text-align: left;
 }
+
+.agricola {
+  width: 500px;
+  height: 350px;
+  justify-content: left;
+  border-radius: 5%;
+  display: flex;
+  margin-left: 10px;
+}
